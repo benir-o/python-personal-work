@@ -1,5 +1,6 @@
 print("Hello Benir")
 print("This is python reborn")
+print("This time we learn algorithms and data structures")
 '''
 In direct recursion, a function
 calls itself directly.
