@@ -8,4 +8,5 @@ def countdown(n):
     else:
         print(n)
         countdown(n-1)
+        # we print then call, the stack prints as it gets full?
 countdown(3)
