@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96cec0ce-8496-44ff-8b50-2ed8597e579f" name="Changes" comment="Direct, indirect, tail and head recursion">
-      <change afterPath="$PROJECT_DIR$/recursion algorithms/head_recursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion algorithms/tail_recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/recursion algorithms/tail_recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python functions/arguments.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.arguments.executor": "Run",
     "Python.head_recursion.executor": "Run",
     "Python.indirect_recursion.executor": "Run",
     "Python.tail_recursion.executor": "Run",
@@ -97,7 +96,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745523345970</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Direct, indirect, tail and head recursion">
+      <option name="closed" value="true" />
+      <created>1745523502263</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745523502263</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Direct, indirect, tail and head recursion">
+      <option name="closed" value="true" />
+      <created>1745561090063</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745561090063</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
