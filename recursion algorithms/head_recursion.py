@@ -5,9 +5,7 @@ other thing in the function
 
 def head_recursion(n):
     if n==0:
-        return "done"
-    else:
-        print(n)
-        return head_recursion(n-1)
-
-print(head_recursion(3))
+        return
+    head_recursion(n-1)
+    print(n)
+head_recursion(3)
