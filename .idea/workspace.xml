@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96cec0ce-8496-44ff-8b50-2ed8597e579f" name="Changes" comment="Direct, indirect, tail and head recursion">
-      <change afterPath="$PROJECT_DIR$/python functions/arguments.py" afterDir="false" />
+    <list default="true" id="96cec0ce-8496-44ff-8b50-2ed8597e579f" name="Changes" comment="git clone attempt">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa3/02_data_structures/03_tuples/tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa3/02_data_structures/03_tuples/tuples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa3/02_data_structures/05_dictionaries/dict1.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa3/02_data_structures/05_dictionaries/dict1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +29,21 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/dsa3" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;benir-o&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/benir-o/python-personal-work&quot;,
+    &quot;accountId&quot;: &quot;f5c447aa-cc97-4b3c-84b7-18284886f960&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -40,12 +55,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.01_stacks.executor": "Run",
     "Python.arguments.executor": "Run",
+    "Python.dict1.executor": "Run",
+    "Python.dict2.executor": "Run",
     "Python.head_recursion.executor": "Run",
     "Python.indirect_recursion.executor": "Run",
+    "Python.list1.executor": "Run",
+    "Python.list_functions.executor": "Run",
+    "Python.sets1.executor": "Run",
+    "Python.sets2.executor": "Run",
+    "Python.stack_deque.executor": "Run",
     "Python.tail_recursion.executor": "Run",
+    "Python.tuples.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "playground"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -112,11 +136,40 @@
       <option name="project" value="LOCAL" />
       <updated>1745561090063</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Keyword arguments and non-keyword arguments">
+      <option name="closed" value="true" />
+      <created>1745561741600</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745561741600</updated>
+    </task>
+    <task id="LOCAL-00008" summary="git clone attempt">
+      <option name="closed" value="true" />
+      <created>1746164870164</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1746164870164</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Direct, indirect, tail and head recursion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Direct, indirect, tail and head recursion" />
+    <MESSAGE value="Keyword arguments and non-keyword arguments" />
+    <MESSAGE value="git clone attempt" />
+    <option name="LAST_COMMIT_MESSAGE" value="git clone attempt" />
   </component>
 </project>
