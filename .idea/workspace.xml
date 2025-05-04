@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96cec0ce-8496-44ff-8b50-2ed8597e579f" name="Changes" comment="Types of data structures" />
+    <list default="true" id="96cec0ce-8496-44ff-8b50-2ed8597e579f" name="Changes" comment="Assignments clone">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +26,7 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/dsa3" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -48,25 +50,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.01_stacks.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arguments.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dict1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dict2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.head_recursion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.indirect_recursion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sets1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sets2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stack_deque.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tail_recursion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tuples.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.01_stacks.executor": "Run",
+    "Python.arguments.executor": "Run",
+    "Python.dict1.executor": "Run",
+    "Python.dict2.executor": "Run",
+    "Python.head_recursion.executor": "Run",
+    "Python.indirect_recursion.executor": "Run",
+    "Python.list1.executor": "Run",
+    "Python.list_functions.executor": "Run",
+    "Python.sets1.executor": "Run",
+    "Python.sets2.executor": "Run",
+    "Python.stack_deque.executor": "Run",
+    "Python.tail_recursion.executor": "Run",
+    "Python.tuples.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "playground"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -155,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746170205522</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Assignments clone">
+      <option name="closed" value="true" />
+      <created>1746170577499</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1746170577499</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,6 +184,7 @@
     <MESSAGE value="Keyword arguments and non-keyword arguments" />
     <MESSAGE value="git clone attempt" />
     <MESSAGE value="Types of data structures" />
-    <option name="LAST_COMMIT_MESSAGE" value="Types of data structures" />
+    <MESSAGE value="Assignments clone" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignments clone" />
   </component>
 </project>
